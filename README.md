@@ -5,6 +5,8 @@ This repository implements the novel Exponentially Weighted Moving Linear Regres
 EWMLR emphasizes recent observations while capturing broader linear trends, making it highly effective for volatile 
 time series data and real-time decision-making.
 </p>
+<img width="752" height="450" alt="toy" src="https://github.com/user-attachments/assets/6312665a-0650-4d1e-bed7-37ed959e415e" />
+
 
 <h2>Key Features</h2>
 <ul>

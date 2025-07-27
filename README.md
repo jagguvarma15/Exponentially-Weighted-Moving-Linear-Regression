@@ -1,5 +1,6 @@
 # Exponentially-Weighted-Moving-Linear-Regression (EWMLR)
 This repository implements the novel Exponentially Weighted Moving Linear Regression (EWMLR) model, which extends the traditional Exponentially Weighted Moving Average (EWMA) by integrating linear regression for improved time series analysis.
+<img width="1920" height="908" alt="image" src="https://github.com/user-attachments/assets/c68fbabb-ded8-40ef-bde6-28f1ced575fe" />
 
 <p> 
 EWMLR emphasizes recent observations while capturing broader linear trends, making it highly effective for volatile 
